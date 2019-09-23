@@ -1,7 +1,7 @@
 
 class Global {
 
-  static const API_KEY = "AIzaSyBWr2YyBfvCHIuOVRbeMK3TbGZQ5qQZEG0";
+  static const API_KEY = "YOUR_KEY_HERE";
 
   static const CHANNEL_ID = "UCrtzrNR9ftwW229DxtBG6Xw";
 
